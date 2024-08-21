@@ -2,9 +2,13 @@
 
 
 **Description**
+
+
 Handyman is a comprehensive web application that connects skilled workers, such as plumbers, electricians, and carpenters, with consumers seeking their services. The platform allows users to search for professionals based on specific needs, view profiles and customer reviews, and easily schedule services through a user-friendly interface.
 
+
 **Key Features**
+
 
 Search for skilled workers based on services needed.
 View professional profiles, customer ratings, and reviews.
