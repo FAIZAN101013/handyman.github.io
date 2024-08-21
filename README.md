@@ -17,8 +17,12 @@ User-Friendly Design
 The platform is built to create an intuitive, accessible interface for both service providers and consumers. Whether you're hiring or offering services, the design ensures a smooth and seamless user experience.
 
 **Project Impact**
+
+
 Handyman aims to streamline the process of hiring skilled workers, providing convenience and reliability for users, and improving the connection between service providers and those in need of their expertise.
 
+
 **Technologies Used**
+
 
 (Include technologies, frameworks, or tools used, like Django, React, MySQL, etc.)
