@@ -1,3 +1,56 @@
+# Handyman
+
+Handyman is a web application that connects skilled workers such as plumbers, electricians, and carpenters with consumers seeking their services.
+
+## Features
+- User authentication (sign up, login, logout)
+- Service provider profiles
+- Booking and service management
+- Admin panel for managing users and services
+
+## Installation
+### 1. Clone the Repository
+```sh
+git clone https://github.com/yourusername/handyman.git
+cd handyman
+```
+
+### 2. Install Dependencies
+```sh
+pip install -r requirements.txt
+```
+
+### 3. Apply Migrations
+```sh
+python manage.py migrate
+```
+
+### 4. Create a Superuser (Optional)
+```sh
+python manage.py createsuperuser
+```
+
+### 5. Run the Development Server
+```sh
+python manage.py runserver
+```
+Visit `http://127.0.0.1:8000/` in your browser.
+
+## Technologies Used
+- **Django** - Backend Framework
+- **SQLite** - Database
+- **HTML, CSS, JavaScript** - Frontend
+
+## Contributing
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Commit changes (`git commit -m 'Add new feature'`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Create a Pull Request.
+
+## License
+This project is licensed under the MIT License.
+
 # HANDYMAN
 
 
