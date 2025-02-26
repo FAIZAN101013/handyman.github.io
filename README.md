@@ -51,8 +51,6 @@ Visit `http://127.0.0.1:8000/` in your browser.
 ## License
 This project is licensed under the MIT License.
 
-# HANDYMAN
-
 
 **Description**
 
